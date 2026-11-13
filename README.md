@@ -67,7 +67,7 @@ pse-saude-mental-maringa/
 O código em `src/pse_saude_mental.c` segue a mesma lógica descrita no
 fluxograma geral, no fluxograma detalhado da operação de cadastro e no
 pseudocódigo em Portugol apresentados no documento
-`docs/1_Entrega_AEP_PSE_SaudeMental.docx`.
+`docs/AEP_PSE_Documento_Final.docx`.
 
 ## Licença
 
