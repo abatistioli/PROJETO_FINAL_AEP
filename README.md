@@ -33,12 +33,18 @@ em `src/` finalizado e pronto para execução.
 pse-saude-mental-maringa/
 ├── README.md
 ├── src/
-│   └── pse_saude_mental.c      # código-fonte do sistema
+│   ├── pse_saude_mental.c      # código-fonte do sistema
+│   └── pse_saude_mental.exe
 └── docs/
-    ├── 1_Entrega_AEP_PSE_SaudeMental.docx   # documento final corrigido
+    ├── AEP_PSE_Documento_Final.docx
+    ├── AEP_PSE_Documento_Final.pdf   # documento final corrigido
     └── diagramas/
-        ├── fluxograma_geral.png             # Figura 1 — menu principal
-        └── fluxograma_cadastro.png          # Figura 2 — cadastro de ação
+            ├── 01_menu_e_demonstracao.png 
+            ├── 02_cadastro_com_validacoes.png 
+            ├── casos_de_uso.png
+            ├── fluxograma_cadastro_v2.png 
+            ├── fluxograma_geral.png
+            └── pesquisa.PNG     
 ```
 
 ## Funcionalidades do código
